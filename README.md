@@ -156,6 +156,3 @@ From the project folder:
 On macOS/Linux use `.venv/bin/python -m pytest -q`. Four tests cover alert persistence/hysteresis, archive preservation and cursor restart, stale/failed state behavior, missing/rejected values, and dashboard/history responses. Tests create temporary databases. See `verification/TEST_RESULTS.txt` for the current automated run; it is not a partner handoff result.
 
 See `VERIFICATION_REPORT.md` for the automated HTTP, alert, stale-data, and process-recovery checks. See `IMPROVEMENTS.md` and `REFLECTION.md` for the documentation review. The optional silent observation was not performed.
-
-## 16. AI Usage
-See `AI_LOG.md` for a concise record of assistance and verification. Add the actual partner observations and your own local checks after performing them.
