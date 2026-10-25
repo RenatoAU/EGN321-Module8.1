@@ -1,0 +1,7 @@
+October 25, 2026 — assistant Linux runtime
+python3 -m pytest -q
+4 passed in 1.55s
+
+python3 capture_evidence.py --no-browser
+PASS: real HTTP dashboard, alert/clear, stale/missing, FAILED, killed child, automatic restart, SQLite integrity and final HEALTHY.
+Synthetic inputs at 0.5-second intervals. Not a partner session or Windows execution.
